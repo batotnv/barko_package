@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+S3method(print, przyrosty)
+S3method(plot, przyrosty)
+S3method(summary, przyrosty)
+S3method(przyrosty, default)

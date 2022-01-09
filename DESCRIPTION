@@ -1,0 +1,11 @@
+Package: barko
+Type: Package
+Title: Przyrosty dla danych
+Version: 0.1.0
+Author: Karolina Dudzinska, Bartosz Nguyen Van
+Maintainer: The package maintainer <barko@gmail.com>
+Description: Pakiet pozwalajacy na obliczanie przytostow dla danych. Mozliwe jest obliczanie przyrostow na danych podstawowych lub przyrostow logarytmicznych. Pakiet zawiera funkcje print, plot, summary.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
